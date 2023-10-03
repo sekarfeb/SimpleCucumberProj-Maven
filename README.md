@@ -1,2 +1,2 @@
 # SimpleCucumberProj-Maven
-Welcome
+Welcome to Maven Project
